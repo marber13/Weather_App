@@ -1,0 +1,7 @@
+.weather {
+  max-width: 650px;
+  margin: 30px auto;
+  padding: 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
