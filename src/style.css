@@ -27,3 +27,12 @@ small {
   border: 2px solid #1a3c40;
   border-radius: 10px;
 }
+
+.current_Temp {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.current_Emoji {
+  font-size: 45px;
+}
